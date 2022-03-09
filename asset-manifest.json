@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://mukundakamatham.github.io/csb-u2zzx8/static/css/main.c8da1ea2.chunk.css",
+    "main.js": "https://mukundakamatham.github.io/csb-u2zzx8/static/js/main.62cc1c9f.chunk.js",
+    "main.js.map": "https://mukundakamatham.github.io/csb-u2zzx8/static/js/main.62cc1c9f.chunk.js.map",
+    "runtime-main.js": "https://mukundakamatham.github.io/csb-u2zzx8/static/js/runtime-main.10684f71.js",
+    "runtime-main.js.map": "https://mukundakamatham.github.io/csb-u2zzx8/static/js/runtime-main.10684f71.js.map",
+    "static/css/2.4659568d.chunk.css": "https://mukundakamatham.github.io/csb-u2zzx8/static/css/2.4659568d.chunk.css",
+    "static/js/2.fae1861e.chunk.js": "https://mukundakamatham.github.io/csb-u2zzx8/static/js/2.fae1861e.chunk.js",
+    "static/js/2.fae1861e.chunk.js.map": "https://mukundakamatham.github.io/csb-u2zzx8/static/js/2.fae1861e.chunk.js.map",
+    "static/js/3.1d7ce1a9.chunk.js": "https://mukundakamatham.github.io/csb-u2zzx8/static/js/3.1d7ce1a9.chunk.js",
+    "static/js/3.1d7ce1a9.chunk.js.map": "https://mukundakamatham.github.io/csb-u2zzx8/static/js/3.1d7ce1a9.chunk.js.map",
+    "index.html": "https://mukundakamatham.github.io/csb-u2zzx8/index.html",
+    "static/css/2.4659568d.chunk.css.map": "https://mukundakamatham.github.io/csb-u2zzx8/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.c8da1ea2.chunk.css.map": "https://mukundakamatham.github.io/csb-u2zzx8/static/css/main.c8da1ea2.chunk.css.map",
+    "static/js/2.fae1861e.chunk.js.LICENSE.txt": "https://mukundakamatham.github.io/csb-u2zzx8/static/js/2.fae1861e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10684f71.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.fae1861e.chunk.js",
+    "static/css/main.c8da1ea2.chunk.css",
+    "static/js/main.62cc1c9f.chunk.js"
+  ]
+}
